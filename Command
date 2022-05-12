@@ -1,0 +1,1 @@
+netstat -plntu   -----> prüfen, welche Port offen sind
